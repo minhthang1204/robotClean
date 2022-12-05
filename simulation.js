@@ -1,4 +1,3 @@
-
 var lawn = new Image();
 var wall = new Image();
 var wall_scale = 10;     // wall is 10 times smaller than actual image
